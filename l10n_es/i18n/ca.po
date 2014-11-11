@@ -19,12 +19,12 @@ msgstr ""
 #. module: l10n_es
 #: model:account.account.type,name:l10n_es.account_type_capital
 msgid "Capital"
-msgstr ""
+msgstr "Capital"
 
 #. module: l10n_es
 #: model:account.account.type,name:l10n_es.account_type_stock
 msgid "Existencias"
-msgstr ""
+msgstr "Existencies"
 
 #. module: l10n_es
 #: model:account.account.type,name:l10n_es.account_type_financieras
